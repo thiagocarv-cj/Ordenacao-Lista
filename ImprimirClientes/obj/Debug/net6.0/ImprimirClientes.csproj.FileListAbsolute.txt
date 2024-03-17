@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Exercicios\ImprimirClientes\ImprimirClientes\bin\Debug\net6.0\ImprimirClientes.exe
+C:\Users\Lenovo\source\repos\Exercicios\ImprimirClientes\ImprimirClientes\bin\Debug\net6.0\ImprimirClientes.deps.json
+C:\Users\Lenovo\source\repos\Exercicios\ImprimirClientes\ImprimirClientes\bin\Debug\net6.0\ImprimirClientes.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Exercicios\ImprimirClientes\ImprimirClientes\bin\Debug\net6.0\ImprimirClientes.dll
+C:\Users\Lenovo\source\repos\Exercicios\ImprimirClientes\ImprimirClientes\bin\Debug\net6.0\ImprimirClientes.pdb
+C:\Users\Lenovo\source\repos\Exercicios\ImprimirClientes\ImprimirClientes\obj\Debug\net6.0\ImprimirClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Exercicios\ImprimirClientes\ImprimirClientes\obj\Debug\net6.0\ImprimirClientes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Exercicios\ImprimirClientes\ImprimirClientes\obj\Debug\net6.0\ImprimirClientes.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Exercicios\ImprimirClientes\ImprimirClientes\obj\Debug\net6.0\ImprimirClientes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Exercicios\ImprimirClientes\ImprimirClientes\obj\Debug\net6.0\ImprimirClientes.dll
+C:\Users\Lenovo\source\repos\Exercicios\ImprimirClientes\ImprimirClientes\obj\Debug\net6.0\refint\ImprimirClientes.dll
+C:\Users\Lenovo\source\repos\Exercicios\ImprimirClientes\ImprimirClientes\obj\Debug\net6.0\ImprimirClientes.pdb
+C:\Users\Lenovo\source\repos\Exercicios\ImprimirClientes\ImprimirClientes\obj\Debug\net6.0\ImprimirClientes.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Exercicios\ImprimirClientes\ImprimirClientes\obj\Debug\net6.0\ref\ImprimirClientes.dll
